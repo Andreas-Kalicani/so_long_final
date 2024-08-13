@@ -1,0 +1,4 @@
+- check the extension, verif if its .ber and nothing else. / its Done 
+- surrender by wall/ its done 
+- check makefile /its Done
+- with every mistake print "Error\n"/ its done 
